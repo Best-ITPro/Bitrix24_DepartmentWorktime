@@ -1,0 +1,62 @@
+#main {
+
+	margin-top: 25px;
+
+}
+
+
+#my_form_div {
+
+	width: 100%;
+	margin: 10px 0 10px 30px;
+}
+
+
+#table_result {
+	border-spacing: 0;
+	cellpadding: 0;
+
+}
+
+#table_result td {
+	border: 1px solid #ccc;
+}
+
+#table_result_title {
+	background: #ccc;
+}
+
+
+#table_result_1 {
+	border-spacing: 0;
+	vertical-align: top;
+}
+
+#table_result_1 td {
+	vertical-align: top;
+}
+
+#table_result_1 td {
+	border: 1px solid #ccc;
+}
+
+
+#table_result_2 {
+	border-spacing: 0;
+	border-collapse: collapse;
+	padding: 0;
+	margin: 0;
+}
+
+#table_result_2 td {
+	border: 0.5px solid #ccc;
+}
+
+table.spec {
+	border-collapse: collapse;
+	margin: 1px 0 0 30px;
+	width: 900px;
+}
+table td {
+	padding:5px;
+}
